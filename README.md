@@ -1,18 +1,34 @@
-Purpose
+# Flight Instruments Demo
 
-Small flight instrument simulator developed in C++/Qt.
+A flight instrument simulator written in C++ and Qt.
 
-Features
+## Features
 
 - Artificial Horizon
 - Altimeter
 - Real-time simulation loop
-- Qt signals/slots architecture
-- Model/View separation
+- Keyboard controls
+- Model / View architecture
+- Qt signals and slots
 
-Technologies
+## Technologies
 
-- C++
+- C++20
 - Qt 6
+- CMake
 - QPainter
-- OpenGL Widget
+
+## Project Structure
+
+src/
+├── model/
+├── simulation/
+├── view/
+└── ui/
+
+## Future Work
+
+- Airspeed Indicator
+- Vertical Speed Indicator
+- Turn Coordinator
+- HSI
