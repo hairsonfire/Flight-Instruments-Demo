@@ -18,14 +18,6 @@ A flight instrument simulator written in C++ and Qt.
 - CMake
 - QPainter
 
-## Project Structure
-
-src/
-├── model/
-├── simulation/
-├── view/
-└── ui/
-
 ## Future Work
 
 - Airspeed Indicator
