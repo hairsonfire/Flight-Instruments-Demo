@@ -7,6 +7,7 @@ A flight instrument simulator written in C++ and Qt.
 - Go in the realease section in GitHub
 - Download FlightDisplay-v0.1.zip
 - Open the folder and launch FlightDisplay.exe (all the dependencies are embedded in the folder)
+- Press up/down/left/right to move the artificial horizon, the altimeter will simply increase over time
 
 ## Features
 
