@@ -2,6 +2,12 @@
 
 A flight instrument simulator written in C++ and Qt.
 
+## Instructions
+
+- Go in the realease section in GitHub
+- Download FlightDisplay-v0.1.zip
+- Open the folder and launch FlightDisplay.exe (all the dependencies are embedded in the folder)
+
 ## Features
 
 - Artificial Horizon
